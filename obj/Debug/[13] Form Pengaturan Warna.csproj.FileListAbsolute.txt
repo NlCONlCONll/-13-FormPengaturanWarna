@@ -1,0 +1,10 @@
+D:\VisualStudio\[13] Form Pengaturan Warna\bin\Debug\[13] Form Pengaturan Warna.exe.config
+D:\VisualStudio\[13] Form Pengaturan Warna\bin\Debug\[13] Form Pengaturan Warna.exe
+D:\VisualStudio\[13] Form Pengaturan Warna\bin\Debug\[13] Form Pengaturan Warna.pdb
+D:\VisualStudio\[13] Form Pengaturan Warna\obj\Debug\[13] Form Pengaturan Warna.csprojAssemblyReference.cache
+D:\VisualStudio\[13] Form Pengaturan Warna\obj\Debug\_13__Form_Pengaturan_Warna.Form1.resources
+D:\VisualStudio\[13] Form Pengaturan Warna\obj\Debug\_13__Form_Pengaturan_Warna.Properties.Resources.resources
+D:\VisualStudio\[13] Form Pengaturan Warna\obj\Debug\[13] Form Pengaturan Warna.csproj.GenerateResource.cache
+D:\VisualStudio\[13] Form Pengaturan Warna\obj\Debug\[13] Form Pengaturan Warna.csproj.CoreCompileInputs.cache
+D:\VisualStudio\[13] Form Pengaturan Warna\obj\Debug\[13] Form Pengaturan Warna.exe
+D:\VisualStudio\[13] Form Pengaturan Warna\obj\Debug\[13] Form Pengaturan Warna.pdb
